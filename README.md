@@ -1,10 +1,9 @@
-# [MultiversX (Elrond) - My NFTs Collection dApp](https://web3.creative-tim.com/multiversx-my-nfts-collection-dapp?ref=readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20MultiversX%20My%20NFTs%20from%20Collection%20made%20by%20%40CreativeTim%20https%3A//web3.creative-tim.com/multiversx-my-nfts-collection-dapp%0A%0A%23Elrond%20%23EGLD%20%23NFT%20%23ElrondNetwork%20%23NFTim%20%23ElrondCommunity) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/v6eJyQWbaS)
-
+# [MultiversX (Elrond) - My NFTs Collection dApp]
 
 ![My Nfts from colection thumb](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/ct-assets/nfts-collection-dapp-thumbnail.jpg)
 
 MultiversX (Elrond) is the best blockchain technology in terms of speed, transaction costs, and real word utility.
-We, at [Creative Tim](https://www.creative-tim.com/), believe in Elrond's power and we chose this network in our Web 3 Journey. We want to bring our experience to the table and expand the network's ecosystem by creating a suite of dApps for web developers to make the transition between the two Web versions easier.
+We, believe in Elrond's power and we chose this network in our Web 3 Journey. We want to bring our experience to the table and expand the network's ecosystem by creating a suite of dApps for web developers to make the transition between the two Web versions easier.
 
 Creative Tim's first dApp on MultiversX (Elrond) is already here. It is a starter template for NFTs collection creators and is open source so that all the community can use it.
 
@@ -12,7 +11,7 @@ Our dApp features:
 
 * Showcases all the NFTs that you own from a specific collection with details - each NFT's rarities and attributes;
 * Login process using the cryptocurrency wallet;
-* Innovative and Sleek Design inspired by [Soft UI](https://www.creative-tim.com/product/soft-ui-design-system) - for an intuitive user experience.
+* Innovative and Sleek Design inspired by Soft UI- for an intuitive user experience.
 
 
 Special thanks:
@@ -37,11 +36,7 @@ During the development of our dApp, we have used the dApp code from [MultiversX 
 * [Resources](#resources)
 * [Social Media](#social-media)
 
-## Versions
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://web3.creative-tim.com/elrond-my-nfts-collection-dapp)
-
 ## Screen Shots From dApp
-[View Demo](https://web3.creative-tim.com/multiversx-my-nfts-collection-dapp?ref=readme)
 
 | Landing Page | Dashboard Page |
 | --- | --- |
@@ -54,9 +49,9 @@ For viewing the NFTs in the dApp live preview you can connect with the credentia
 
 ## Get Started
 You can choose from these options to get code locally:
-- [Fork from Github](https://github.com/web3-creative-tim/multiversx-my-nfts-collection-dapp/fork)
-- [Download zip](https://github.com/web3-creative-tim/multiversx-my-nfts-collection-dapp/archive/refs/heads/main.zip)
-- [Clone](https://github.com/web3-creative-tim/multiversx-my-nfts-collection-dapp.git)
+- [Fork from Github](https://github.com/webcat12345/multiversx-my-nfts-collection-dapp/fork)
+- [Download zip](https://github.com/webcat12345/multiversx-my-nfts-collection-dapp/archive/refs/heads/main.zip)
+- [Clone](https://github.com/webcat12345/multiversx-my-nfts-collection-dapp.git)
 
 ## Before Run dApp
 - Create a devnet wallet (you can use only mainnet) - https://devnet-wallet.elrond.com/
@@ -141,41 +136,6 @@ We use GitHub Issues as the official bug tracker for this dApp. Here are some ad
 1. Make sure that you are using the latest version of the dApp. 
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-
-## Licensing
-- Copyright 2022 Creative Tim (https://www.creative-tim.com/)
-
-- Licensed under GPL 3.0 (https://github.com/web3-creative-tim/multiversx-my-nfts-collection-dapp/blob/main/LICENSE)
-
-## Useful Links
-
-- [NFT Collection](https://nf-tim.creative-tim.com/?ref=readme-mnft) by Creative Tim
-- [More products](https://www.creative-tim.com/templates?ref=readme-mnft) from Creative Tim
-- [Freebies](https://www.creative-tim.com/templates/free?ref=readme-mnft) from Creative Tim
-- [MultiversX (Elrond) Website](https://elrond.com/?ref=readme-mnft)
-- [MultiversX (Elrond) Docs](https://docs.elrond.com/?ref=ct-readme)
-- [MultiversX (Elrond) API](https://api.elrond.com/?ref=ct-readme)
-- [Maiar Exchange](https://maiar.exchange/?ref=readme-mnft)
-
-## Resources
-- [Book - Fundamentals UI/UX](https://www.creative-tim.com/courses/fundamentals-ui-ux?ref=readme-mnft)
-- [Course - UI/UX Design](https://course-ui-ux.creative-tim.com/course/ux-design-fundamentals?ref=readme-mnft)
-- [Web 3 Resources](https://www.creative-tim.com/blog/web-3-0/?ref=readme-mnft)
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-
-
-## Social Media
-### Creative Tim 
-- [Twitter](https://twitter.com/CreativeTim)
-- [Facebook](https://www.facebook.com/CreativeTim)
-- [Dribbble](https://dribbble.com/creativetim)
-- [TikTok](https://tiktok.com/@creative.tim)
-- [Instagram](https://instagram.com/creativetimofficial)
-
-### MultiversX (Elrond)
-- [Twitter](https://twitter.com/ElrondNetwork)
 
 
 
